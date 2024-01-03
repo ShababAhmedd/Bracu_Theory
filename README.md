@@ -7,4 +7,4 @@ This repository contains questions (of quizzes, assignments, mids and finals) an
 
 # ANT101
 [Playlist](https://youtube.com/playlist?list=PLtQXTSdoymQee7pTB8DqU4Oz18TnMqg-z&si=19JVeS50goHRMQk0)
-
+[Literatures](https://drive.google.com/drive/folders/1KufM-lnzFr-s5wi2CznrafCXPfG1hoiJ?usp=sharing)
