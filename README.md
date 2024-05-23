@@ -13,7 +13,7 @@ This repository contains questions (of quizzes, assignments, mids and finals) an
 
 # CSE340
 [Playlist_1](https://youtube.com/playlist?list=PLKyFAP_ydM15Rvaw9HBNF4WOrtAtt8M-w&si=WXZuYuZDFoazVH5B) <br>
-[Playlist_2](https://youtube.com/playlist?list=PLncSj9rkV80-cn2YojB84Fsxqa13579y7&si=E-qzKNiVvBvd03Bd) <br>
+[Playlist_2](https://youtube.com/playlist?list=PLKyFAP_ydM17VPOp58yPMBTWkG8__Kwg7&si=ZkuZHMYeTLlxlYHl) <br>
 [Playlist_3](https://youtube.com/playlist?list=PLtQXTSdoymQd-cM_pgIGMrLSaUKnzLu8a&si=oMdVUjH_TxdIDr91) <br>
 
 <br>
